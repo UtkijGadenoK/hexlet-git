@@ -21,3 +21,6 @@ node_modules/
 # Игнорировать все .txt файлы в каталоге doc/ на всех уровнях вложенности
 doc/**/*.txt
 
+.DS_Store
+INFO.md
+pico.save
